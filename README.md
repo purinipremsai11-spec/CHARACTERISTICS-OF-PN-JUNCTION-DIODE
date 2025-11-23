@@ -1,4 +1,9 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+```
+#name: p prem sai
+#reg no: 212224080047
+```
+
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
